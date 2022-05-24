@@ -1,3 +1,5 @@
+from ptg2.common import set_debug
+set_debug(2)
 from GEN_func.GenLogin import *
 from GEN_func.GenPanelid import *
 from GEN_func.GenLogoff import *
