@@ -1,0 +1,12 @@
+Test,Status
+HEVCRenameModelFamily,Passed
+HEVCMigratetoNewModel,Passed
+HEVCMigratetoExistingModel,Passed
+HEVCAdoptModel,Passed
+HEVCUnadoptModel,Passed
+HEVCCompareObjects,Passed
+HEVCTrialMigrateExistingModel,Passed
+HEVCTrialAdoptionModel,Passed
+HEVCAggregateObjectWhereExists,Passed
+HE Version Control Test,Complete
+Total Time,371.98

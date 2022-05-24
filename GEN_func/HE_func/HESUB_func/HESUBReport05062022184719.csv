@@ -1,0 +1,14 @@
+Test,Status
+HESUBAddSubset,Passed
+HESUBModifySubset,Passed
+HESUBDisplaySubsetDefinition,Passed
+HESUBCopySubset,Passed
+HESUBRenameSubset,Passed
+HESUBDeleteSubset,Passed
+HESUBConsistencyCheck,Passed
+HESUBChangeSubsetUserID,Passed
+HESUBOverrideCheckout,Passed
+HESUBDisplaySubsetStatistics,Passed
+HESUBDownloadSubset,Passed
+HE Subset Management Test,Complete
+Total Time,124.67

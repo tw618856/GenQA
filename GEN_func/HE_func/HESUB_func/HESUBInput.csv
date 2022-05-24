@@ -1,0 +1,11 @@
+gen86,h1,HESUBAddSubset,Y
+gen86,h1,HESUBModifySubset,Y
+gen86,h1,HESUBDisplaySubsetDefinition,Y
+gen86,h1,HESUBCopySubset,Y
+gen86,h1,HESUBRenameSubset,Y
+gen86,h1,HESUBDeleteSubset,Y
+gen86,h1,HESUBConsistencyCheck,Y
+gen86,h1,HESUBChangeSubsetUserID,Y
+gen86,h1,HESUBOverrideCheckout,Y
+gen86,h1,HESUBDisplaySubsetStatistics,Y
+gen86,h1,HESUBDownloadSubset,Y

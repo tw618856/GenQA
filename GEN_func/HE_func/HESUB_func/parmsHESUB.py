@@ -1,0 +1,25 @@
+###################################
+#  Models and Subsets             #
+###################################
+
+HESubModel = "AUT HE SUB SAMPLE MODEL"
+GenSampleModel = "GEN SAMPLE MODEL 8 6"
+
+HESubAddSubset = "AUT HE SUB ADD SUBSET"
+HESubModifySubset = "AUT HE SUB MODIFY SUBSET"
+HESUBDispSubStat = "AUT HE SUB STATISTICS"
+HESubCopySubset = "AUT HE SUB COPY SUBSET"
+HESubDeleteSubset = "AUT HE SUB DELETE SUBSET"
+HESubRenameSubset = "AUT HE SUB RENAME SUBSET"
+HESubChgIDSubset = "AUT HE SUB CHG USERID SUBSET"
+HESubOverrideSubset = "AUT HE SUB OVERRIDE SUBSET"
+HESubDownloadSubset = "AUT HE SUB DOWNLOAD SUBSET"
+HESubDispSubDefn = "AUT HE SUB DEFINITION"
+HESUBConsCheckSubset = 'AUT HE SUB CONSISTENCY CHECK'
+
+subsetList = ['AUT HE SUB MODIFY SUBSET', 'AUT HE SUB ADD SUBSET',
+              'AUT HE SUB DEFINITION', 'AUT HE SUB COPY SUBSET',
+              'AUT HE SUB RENAME SUBSET', 'AUT HE SUB DELETE SUBSET',
+              'AUT HE SUB CONSISTENCY CHECK', 'AUT HE SUB DOWNLOAD SUBSET',
+              'AUT HE SUB CHG USERID SUBSET', 'AUT HE SUB OVERRIDE SUBSET',
+              'AUT HE SUB STATISTICS']

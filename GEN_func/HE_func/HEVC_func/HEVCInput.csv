@@ -1,0 +1,9 @@
+gen86,h1,HEVCRenameModelFamily,Y
+gen86,h1,HEVCMigratetoNewModel,Y
+gen86,h1,HEVCMigratetoExistingModel,Y
+gen86,h1,HEVCAdoptModel,Y
+gen86,h1,HEVCUnadoptModel,Y
+gen86,h1,HEVCCompareObjects,Y
+gen86,h1,HEVCTrialMigrateExistingModel,Y
+gen86,h1,HEVCTrialAdoptionModel,Y
+gen86,h1,HEVCAggregateObjectWhereExists,Y

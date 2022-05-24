@@ -1,0 +1,16 @@
+gen86,h1,HEMMCopyModel,Y
+gen86,h1,HEMMCopyAcrossEncy,Y
+gen86,h1,HEMMDeleteObjects,Y
+gen86,h1,HEMMRenameObjects,Y
+gen86,h1,HEMMDeleteModel,Y
+gen86,h1,HEMMDisplayModelStatistics,Y
+gen86,h1,HEMMConsistencyCheck,Y
+gen86,h1,HEMMRenameModel,Y
+gen86,h1,HEMMCreateModelFromSubset,Y
+gen86,h1,HEMMOverrideCheckout,Y
+gen86,h1,HEMMBackupRestoreUtilities,Y
+gen86,h1,HEMMModelConversion,Y
+gen86,h1,HEMMModelHistory,Y
+gen86,h1,HEMMChangeModelUserID,Y
+gen86,h1,HEMMDownloadModel,Y
+gen86,h1,HEMMUploadModel,Y
