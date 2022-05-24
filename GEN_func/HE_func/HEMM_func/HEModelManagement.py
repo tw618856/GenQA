@@ -1,5 +1,8 @@
 from ptg2.common import set_debug
 set_debug(2)
+from ptg2.context import set_system, set_userid
+from ptg2.auth import set_password
+import sys
 from GEN_func.GenLogin import *
 from GEN_func.GenPanelid import *
 from GEN_func.GenLogoff import *
