@@ -1,5 +1,4 @@
 from ptg2.common import set_debug
-set_debug(2)
 from ptg2.context import set_system, set_userid
 from ptg2.auth import set_password
 import sys
@@ -41,6 +40,7 @@ import time
 # Still need to add logic to determine how to continue after an error
 
 if __name__ == '__main__':
+    set_debug(debug)
 
     # Start timer to track total time for execution
     starttime = time.time()
